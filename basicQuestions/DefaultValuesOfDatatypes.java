@@ -1,5 +1,1 @@
-class car{
-    String brand;
-    String color;
-    String
-}
+System.out.println("hello world")
